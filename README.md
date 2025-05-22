@@ -1,1 +1,1 @@
-# HTMLTutorial - I have complete HTML Fundamentals from Apna College , Uploading my learning here 
+# HTMLTutorial - I have complete HTML Fundamentals from Apna Colleged , Uploading my learning here 
